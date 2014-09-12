@@ -155,7 +155,7 @@ bookmarklet.contains = function(arr, element) {
   return false;
 };
 bookmarklet.NAME = "t13nb";
-bookmarklet.SCRIPT_BASE_URL = "http://operaintfiles.googlecode.com/svn/trunk/GoogleCloudInput/";
+bookmarklet.SCRIPT_BASE_URL = "http://www.google.com/inputtools/css/";
 bookmarklet.CSS_BASE_URL = bookmarklet.SCRIPT_BASE_URL;
 bookmarklet.IMAGE_BASE_URL = "http://t13n.googlecode.com/files/";
 bookmarklet.SCRIPT_URL = bookmarklet.SCRIPT_BASE_URL + "bm.js";
@@ -175,7 +175,7 @@ bookmarklet.menu = null;
 bookmarklet.backgroundTimerId = null;
 bookmarklet.registeredElements = [];
 bookmarklet.CSS_ID = "t13nCSS";
-bookmarklet.CSS_URL = bookmarklet.CSS_BASE_URL + "bm.css";
+bookmarklet.CSS_URL = bookmarklet.CSS_BASE_URL + "try.css";
 bookmarklet.isInputEnabled = false;
 
 bookmarklet.onFocus = function(e) {
