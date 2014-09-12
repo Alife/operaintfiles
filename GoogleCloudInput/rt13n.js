@@ -15,7 +15,7 @@
 (function(){
   var bookmarklet = {};
 bookmarklet.NAME = "t13nb";
-bookmarklet.SCRIPT_BASE_URL = "http://operaintfiles.googlecode.com/files/";
+bookmarklet.SCRIPT_BASE_URL = "http://operaintfiles.googlecode.com/svn/trunk/GoogleCloudInput/";
 bookmarklet.CSS_BASE_URL = bookmarklet.SCRIPT_BASE_URL;
 bookmarklet.IMAGE_BASE_URL = "http://t13n.googlecode.com/files/";
 bookmarklet.SCRIPT_URL = bookmarklet.SCRIPT_BASE_URL + "bm.js";
